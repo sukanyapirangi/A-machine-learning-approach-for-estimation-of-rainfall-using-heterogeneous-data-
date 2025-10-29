@@ -1,0 +1,2 @@
+# A-machine-learning-approach-for-estimation-of-rainfall-using-heterogeneous-data-
+This project mainly focuses on estimating rainfall using machine learning techniques by integrating heterogeneous datasets such as meteorological parameters, satellite data, and geographical information. The aim is to develop a predictive model that improve accuracy and reliability of rainfall estimation compared to traditional methods.
