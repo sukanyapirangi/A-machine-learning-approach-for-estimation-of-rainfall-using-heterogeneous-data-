@@ -1,0 +1,35 @@
+A Machine Learning Approach for Rainfall Estimation Integrating Heterogeneous Data Sources
+
+Computational infrastructure, geophysical data,GIS, oceans and water, radar data.
+
+
+IEEE Transaction on Machine Learning,Volume:60,Issue Date:05-Jan-2022 
+
+
+A_Machine_Learning_Approach_for_Rainfall_Estimation
+
+
+a_machine_learning_approach_for_rainfall_estimation
+
+
+
+rainfall_estimation
+
+
+Date1
+Location
+MinTemp
+MaxTemp
+Rainfall
+Evaporation
+Sunshine
+WindGustDir
+WindGustSpeed
+WindDir
+WindSpeed
+Humidity
+Pressure
+Cloud
+Temp
+idnumber
+Prediction
